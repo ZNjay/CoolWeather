@@ -556,7 +556,6 @@ import okhttp3.Response;
 //        }
 //    }
 //}
-//cs
 
 public class ChooseAreaFragment extends Fragment {
 
